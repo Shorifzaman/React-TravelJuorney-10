@@ -1,4 +1,4 @@
-# Travel juorney Hospital Web App
+# Travel juorney Booking Web React App
 
 
 It is a single page application made with ReactJS
@@ -11,10 +11,11 @@ It is a single page application made with ReactJS
 ##  this website details :
 
 - Online booking
+- user login
 - tour service
-- online booking
-- Online Payment
 - Expert tour gideline
+- Admin Dashboard coming soon
+- Online Payment comming soon
 
 ## Technologies
 
